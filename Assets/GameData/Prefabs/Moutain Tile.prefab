@@ -64,6 +64,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Moutain Tile
       objectReference: {fileID: 0}
+    - target: {fileID: 6082686692508845214, guid: ff565e8d94f65ae499ca308d455df42e, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -90,6 +94,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   highlight: {fileID: 8612119571341842415}
+  baseColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!1 &8612119571341842415 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2470168169533912785, guid: ff565e8d94f65ae499ca308d455df42e, type: 3}

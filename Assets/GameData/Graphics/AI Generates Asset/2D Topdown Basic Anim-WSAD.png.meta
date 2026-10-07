@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: 6ce48d2d10d71fa458df5703002d7c18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6287177915675634080
+    second: 2D Topdown Basic Anim-WSAD_0
+  - first:
+      213: -4585395293271638595
+    second: 2D Topdown Basic Anim-WSAD_1
+  - first:
+      213: -3937871422354922972
+    second: 2D Topdown Basic Anim-WSAD_2
+  - first:
+      213: 2398111548309416996
+    second: 2D Topdown Basic Anim-WSAD_3
+  - first:
+      213: -3527488467220211185
+    second: 2D Topdown Basic Anim-WSAD_4
+  - first:
+      213: -8984740498992152194
+    second: 2D Topdown Basic Anim-WSAD_5
+  - first:
+      213: -3061958530844542420
+    second: 2D Topdown Basic Anim-WSAD_6
+  - first:
+      213: -1295512527410208228
+    second: 2D Topdown Basic Anim-WSAD_7
+  - first:
+      213: 2755381683495202747
+    second: 2D Topdown Basic Anim-WSAD_8
+  - first:
+      213: -8248363597706940567
+    second: 2D Topdown Basic Anim-WSAD_9
+  - first:
+      213: -2413488900826915513
+    second: 2D Topdown Basic Anim-WSAD_10
+  - first:
+      213: -4382710934789384688
+    second: 2D Topdown Basic Anim-WSAD_11
+  - first:
+      213: 6854557473703747396
+    second: 2D Topdown Basic Anim-WSAD_12
+  - first:
+      213: 4215501665333092288
+    second: 2D Topdown Basic Anim-WSAD_13
+  - first:
+      213: 1680157152013948615
+    second: 2D Topdown Basic Anim-WSAD_14
+  - first:
+      213: 7137157629154593990
+    second: 2D Topdown Basic Anim-WSAD_15
+  - first:
+      213: -5225506134391601260
+    second: 2D Topdown Basic Anim-WSAD_16
+  - first:
+      213: 1203688050601710414
+    second: 2D Topdown Basic Anim-WSAD_17
+  - first:
+      213: 7894585424611452281
+    second: 2D Topdown Basic Anim-WSAD_18
+  - first:
+      213: -1571457105350110201
+    second: 2D Topdown Basic Anim-WSAD_19
+  - first:
+      213: -4655145405217359568
+    second: 2D Topdown Basic Anim-WSAD_20
+  - first:
+      213: 2927856441816439086
+    second: 2D Topdown Basic Anim-WSAD_21
+  - first:
+      213: 6587715537186830923
+    second: 2D Topdown Basic Anim-WSAD_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2D Topdown Basic Anim-WSAD_2
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 768
+        width: 128
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4226f5b1eced959c0800000000000000
+      internalID: -3937871422354922972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Topdown Basic Anim-WSAD_4
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 768
+        width: 128
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a5d02bde7db0fc0800000000000000
+      internalID: -3527488467220211185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Topdown Basic Anim-WSAD_5
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 768
+        width: 128
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71c18e8e1acf4380800000000000000
+      internalID: -8984740498992152194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Topdown Basic Anim-WSAD_6
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 768
+        width: 128
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ab80c60fcb185d0800000000000000
+      internalID: -3061958530844542420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Topdown Basic Anim-WSAD_10
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 542
+        width: 128
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d1dd4c1a0918ed0800000000000000
+      internalID: -2413488900826915513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Topdown Basic Anim-WSAD_12
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 542
+        width: 128
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f5c9094b7402f50800000000000000
+      internalID: 6854557473703747396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Topdown Basic Anim-WSAD_13
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 542
+        width: 128
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf1f301e68708a30800000000000000
+      internalID: 4215501665333092288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Topdown Basic Anim-WSAD_14
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 542
+        width: 128
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c69f94270e115710800000000000000
+      internalID: 1680157152013948615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Topdown Basic Anim-WSAD_18
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 310
+        width: 128
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97521facd933f8d60800000000000000
+      internalID: 7894585424611452281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Topdown Basic Anim-WSAD_20
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 310
+        width: 128
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0393a300be9956fb0800000000000000
+      internalID: -4655145405217359568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Topdown Basic Anim-WSAD_21
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 310
+        width: 128
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29decfdbe5d1a820800000000000000
+      internalID: 2927856441816439086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Topdown Basic Anim-WSAD_22
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 310
+        width: 128
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ab75bb0644c6b50800000000000000
+      internalID: 6587715537186830923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Topdown Basic Anim-WSAD_27
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 82
+        width: 128
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dba581d6e363d44a74719c109b81ae
+      internalID: -1365254819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Topdown Basic Anim-WSAD_29
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 82
+        width: 128
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cb44198e29be4449df00bdfdfa5fe5
+      internalID: -754050724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Topdown Basic Anim-WSAD_30
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 82
+        width: 128
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b765728f9c2134084d8bd4a3f7aec1
+      internalID: 1172592821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Topdown Basic Anim-WSAD_31
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 82
+        width: 128
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae07cae237df894f9783c23f51942ee
+      internalID: 257070922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c47cb15c2f99d4d4c91168f499f4a4f1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2D Topdown Basic Anim-WSAD_0: -6287177915675634080
+      2D Topdown Basic Anim-WSAD_1: -4585395293271638595
+      2D Topdown Basic Anim-WSAD_10: -2413488900826915513
+      2D Topdown Basic Anim-WSAD_11: -4382710934789384688
+      2D Topdown Basic Anim-WSAD_12: 6854557473703747396
+      2D Topdown Basic Anim-WSAD_13: 4215501665333092288
+      2D Topdown Basic Anim-WSAD_14: 1680157152013948615
+      2D Topdown Basic Anim-WSAD_15: 7137157629154593990
+      2D Topdown Basic Anim-WSAD_16: -5225506134391601260
+      2D Topdown Basic Anim-WSAD_17: 1203688050601710414
+      2D Topdown Basic Anim-WSAD_18: 7894585424611452281
+      2D Topdown Basic Anim-WSAD_19: -1571457105350110201
+      2D Topdown Basic Anim-WSAD_2: -3937871422354922972
+      2D Topdown Basic Anim-WSAD_20: -4655145405217359568
+      2D Topdown Basic Anim-WSAD_21: 2927856441816439086
+      2D Topdown Basic Anim-WSAD_22: 6587715537186830923
+      2D Topdown Basic Anim-WSAD_23: 1330685599
+      2D Topdown Basic Anim-WSAD_24: 65763584
+      2D Topdown Basic Anim-WSAD_25: -1475772220
+      2D Topdown Basic Anim-WSAD_26: 1224186977
+      2D Topdown Basic Anim-WSAD_27: -1365254819
+      2D Topdown Basic Anim-WSAD_28: 112572356
+      2D Topdown Basic Anim-WSAD_29: -754050724
+      2D Topdown Basic Anim-WSAD_3: 2398111548309416996
+      2D Topdown Basic Anim-WSAD_30: 1172592821
+      2D Topdown Basic Anim-WSAD_31: 257070922
+      2D Topdown Basic Anim-WSAD_32: -313995895
+      2D Topdown Basic Anim-WSAD_33: 406538740
+      2D Topdown Basic Anim-WSAD_34: 916064671
+      2D Topdown Basic Anim-WSAD_4: -3527488467220211185
+      2D Topdown Basic Anim-WSAD_5: -8984740498992152194
+      2D Topdown Basic Anim-WSAD_6: -3061958530844542420
+      2D Topdown Basic Anim-WSAD_7: -1295512527410208228
+      2D Topdown Basic Anim-WSAD_8: 2755381683495202747
+      2D Topdown Basic Anim-WSAD_9: -8248363597706940567
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
