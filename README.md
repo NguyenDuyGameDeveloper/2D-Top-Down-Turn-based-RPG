@@ -42,7 +42,7 @@ designed for mobile platforms.
 **Role:** Unity Developer, Designer  
 **Engine:** Unity 6 (6000.0.62f1)  
 **Language:** C#  
-**Platform:** Android / WebGL / Windows
+**Platform:** Android / WebGL / Windows  
 **Status:** In Development
 
 ## Project
